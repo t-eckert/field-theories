@@ -34,8 +34,10 @@ own successes and failures to continuously improve.
 - Back up with Git
 - Adding to the system should have minimal cost
 - No note is too short
+- Organize over time
+- Planning is separate from execution
 
-## Personal
+## My Digital Notebook
 
 I have a "monorepo" approach to my notebook.
 
@@ -56,11 +58,10 @@ My first job after grad school.
 - Output
 - Career
 
-Apple Calendar.
+## Three Physical Notebooks
 
-## Work
+## Calendars
 
-- Notion Calendar
 
 ## Home and Shared Responsibilities
 
@@ -71,4 +72,4 @@ With that comes the
 
 - Physics log books
 
--
+- [How to Take Smart Notes]()
