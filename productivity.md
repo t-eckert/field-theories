@@ -27,6 +27,11 @@ If I were to give some general advice to those seeking to build their own produc
 it'd be this: build a system that encourages self-reflection. A good system will reflect on its
 own successes and failures to continuously improve.
 
+lorem ipsum delor
+asdfasdfasdf
+ asdfasdfasdf
+ asdfasdf
+
 ## Philosophy of the system
 
 - Markdown whenever possible
