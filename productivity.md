@@ -1,5 +1,5 @@
 ---
-title: My Productivity System
+title: My Digital Notebook
 is_draft: true
 ---
 
@@ -27,10 +27,10 @@ If I were to give some general advice to those seeking to build their own produc
 it'd be this: build a system that encourages self-reflection. A good system will reflect on its
 own successes and failures to continuously improve.
 
-lorem ipsum delor
-asdfasdfasdf
- asdfasdfasdf
- asdfasdf
+I'm actually quite skeptical of people who say they have developed the perfect productivity and
+knowledge management system because I believe the way people think is so distinct that the
+systems we build should reflect that.
+I do believe in theft.
 
 ## Philosophy of the system
 
@@ -43,6 +43,15 @@ asdfasdfasdf
 - Planning is separate from execution
 
 ## My Digital Notebook
+
+Writing everything in markdown is super important to me.
+It means I can take the information with me wherever I go.
+The files are not tied to a specific vendor.
+They are plaintext so they work even without a markdown renderer.
+They are super easy to move around. Able to be managed by Git.
+I can grep through them.
+
+Markdown has its shortcomings, but I am cool with them.
 
 I have a "monorepo" approach to my notebook.
 
@@ -63,18 +72,13 @@ My first job after grad school.
 - Output
 - Career
 
-## Three Physical Notebooks
+## What lives outside of the Notebook?
 
-## Calendars
-
-
-## Home and Shared Responsibilities
-
-I have the distinct privilege of sharing my life with my wife.
-With that comes the
+As expansive as my digital notebook is,
 
 ## Inspirations and Influences
 
 - Physics log books
 
-- [How to Take Smart Notes]()
+- [How to Take Smart Notes](https://www.amazon.ca/How-Take-Smart-Notes-Nonfiction/dp/1542866502)
+- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
