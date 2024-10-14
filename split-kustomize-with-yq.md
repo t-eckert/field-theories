@@ -37,3 +37,5 @@ uses the `yq` expression language (which is the same as
 [`jq`](https://stedolan.github.io/jq/)) to name the files based on the value in the
 YAML document's `metadata.name` field. The `--no-doc` flag simply omits the `---` used
 to separate YAML documents from the output.
+
+I hope you enjoy using this!
